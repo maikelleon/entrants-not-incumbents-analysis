@@ -1,0 +1,565 @@
+Chief executives|1780|5|1774|1802|9|1789
+General and operations managers|1165|31|1133|1379|34|1338
+Legislators|14|0|13|18|1|17
+Advertising and promotions managers|68|4|64|61|3|59
+Marketing managers|656|35|619|669|35|629
+Sales managers|566|13|553|563|9|554
+Public relations and fundraising managers|131|4|126|141|5|136
+Administrative services managers|69|0|69|113|2|111
+Facilities managers|129|1|127|128|1|125
+Computer and information systems managers|764|10|751|646|5|641
+Financial managers|1380|31|1348|1431|36|1395
+Compensation and benefits managers|18|0|17|16|0|15
+Human resources managers|295|6|291|314|5|308
+Training and development managers|63|3|59|68|4|63
+Industrial production managers|281|8|274|345|6|337
+Purchasing managers|234|5|230|222|4|217
+Transportation, storage, and distribution managers|351|15|333|415|15|398
+Farmers, ranchers, and other agricultural managers|946|38|906|810|27|777
+Construction managers|1057|26|1028|1199|34|1159
+Education and childcare administrators|988|25|962|1052|23|1027
+Architectural and engineering managers|202|5|194|197|0|195
+Food service managers|1153|107|1007|1159|121|991
+Funeral home managers|8|0|6|10|0|11
+Entertainment and recreation managers|65|4|59|65|14|51
+Lodging managers|113|5|107|117|3|114
+Medical and health services managers|797|13|783|905|17|885
+Natural sciences managers|28|1|28|44|0|42
+Postmasters and mail superintendents|26|0|26|42|0|42
+Property, real estate, and community association managers|835|23|809|790|25|762
+Social and community service managers|434|15|419|471|21|450
+Emergency management directors|22|0|21|27|2|25
+Personal service managers, all other|6|2|4|184|8|176
+Managers, all other|5557|124|5418|5471|137|5319
+Agents and business managers of artists, performers, and athletes|39|1|38|60|1|58
+Buyers and purchasing agents, farm products|4|1|3|10|2|7
+Wholesale and retail buyers, except farm products|179|10|167|179|13|165
+Purchasing agents, except wholesale, retail, and farm products|266|10|255|296|17|277
+Claims adjusters, appraisers, examiners, and investigators|365|11|354|389|7|382
+Compliance officers|294|13|279|312|13|299
+Cost estimators|140|9|129|146|10|136
+Human resources workers|936|75|858|897|32|864
+Compensation, benefits, and job analysis specialists|65|0|64|61|2|59
+Training and development specialists|157|10|145|210|12|197
+Logisticians|169|10|154|209|13|194
+Project management specialists|841|27|815|1150|23|1126
+Management analysts|1045|46|994|1084|50|1032
+Meeting, convention, and event planners|159|21|133|201|31|166
+Fundraisers|76|2|73|78|3|75
+Market research analysts and marketing specialists|455|58|391|542|53|478
+Business operations specialists, all other|409|24|379|595|41|551
+Accountants and auditors|1652|90|1561|1766|82|1681
+Property appraisers and assessors|100|4|96|70|2|67
+Budget analysts|48|0|49|67|1|66
+Credit analysts|51|5|47|35|4|32
+Financial and investment analysts|387|31|354|422|36|386
+Personal financial advisors|543|28|514|576|30|544
+Insurance underwriters|105|5|101|142|2|139
+Financial examiners|19|1|18|20|1|19
+Credit counselors and loan officers|391|13|376|352|13|334
+Tax examiners and collectors, and revenue agents|71|2|70|52|1|51
+Tax preparers|98|10|87|134|6|129
+Other financial specialists|87|5|80|115|3|111
+Computer and information research scientists|41|3|37|29|0|29
+Computer systems analysts|501|25|476|569|30|537
+Information security analysts|178|7|169|261|15|246
+Computer programmers|457|21|426|381|26|352
+Software developers|2085|133|1952|2254|140|2112
+Software quality assurance analysts and testers|83|2|80|72|3|69
+Web developers|79|5|73|66|8|58
+Web and digital interface designers|89|3|85|69|5|64
+Computer support specialists|704|43|658|677|40|635
+Database administrators and architects|137|10|127|148|1|148
+Network and computer systems administrators|217|7|210|154|3|151
+Computer network architects|98|3|95|96|0|96
+Computer occupations, all other|969|56|904|1181|59|1117
+Actuaries|30|6|24|32|6|26
+Mathematicians|4|0|4|8|0|7
+Operations research analysts|135|14|122|178|7|172
+Statisticians|51|8|43|50|2|49
+Other mathematical science occupations|314|32|281|486|39|447
+Architects, except landscape and naval|182|5|176|254|8|245
+Landscape architects|32|1|31|32|1|30
+Surveyors, cartographers, and photogrammetrists|43|0|43|42|1|40
+Aerospace engineers|173|7|166|168|10|156
+Agricultural engineers|4|0|4|7|0|6
+Bioengineers and biomedical engineers|24|3|20|24|0|23
+Chemical engineers|75|8|67|85|8|76
+Civil engineers|482|32|448|525|48|476
+Computer hardware engineers|90|5|85|94|3|90
+Electrical and electronics engineers|296|11|287|284|16|268
+Environmental engineers|47|3|43|49|1|47
+Industrial engineers, including health and safety|221|14|203|274|16|259
+Marine engineers and naval architects|8|0|8|15|2|15
+Materials engineers|48|1|45|56|3|54
+Mechanical engineers|403|32|369|419|26|390
+Mining and geological engineers, including mining safety engineers|3|0|3|5|0|6
+Nuclear engineers|11|0|11|7|0|8
+Petroleum engineers|18|1|17|15|0|15
+Engineers, all other|631|31|600|685|26|657
+Architectural and civil drafters|46|2|41|39|5|34
+Other drafters|80|5|74|79|6|72
+Electrical and electronic engineering technologists and technicians|90|4|86|79|4|75
+Other engineering technologists and technicians, except drafters|374|30|340|385|31|347
+Surveying and mapping technicians|83|12|71|52|3|44
+Agricultural and food scientists|19|1|17|27|1|26
+Biological scientists|110|5|106|100|9|92
+Conservation scientists and foresters|29|1|29|27|3|23
+Medical scientists|147|3|143|102|1|102
+Life scientists, all other|13|1|12|5|0|5
+Astronomers and physicists|26|2|24|24|0|23
+Atmospheric and space scientists|12|0|12|11|0|11
+Chemists and materials scientists|78|7|71|106|8|98
+Environmental scientists and specialists, including health|33|5|29|63|6|57
+Geoscientists and hydrologists, except geographers|43|0|44|43|1|43
+Physical scientists, all other|442|33|408|362|18|343
+Economists|29|2|27|34|1|32
+Survey researchers|2|0|1|0|0|0
+Clinical and counseling psychologists|13|0|13|19|0|20
+School psychologists|48|0|50|46|0|45
+Other psychologists|154|2|151|152|3|149
+Sociologists|3|0|4|2|0|2
+Urban and regional planners|35|0|34|39|1|37
+Miscellaneous social scientists and related workers|57|2|56|47|1|45
+Agricultural and food science technicians|42|4|37|55|1|53
+Biological technicians|24|5|19|25|4|21
+Chemical technicians|51|5|44|75|12|63
+Environmental science and geoscience technicians|15|3|12|16|1|15
+Nuclear technicians|7|0|7|3|1|2
+Social science research assistants|5|2|3|7|0|7
+Other life, physical, and social science technicians|320|56|255|386|83|293
+Occupational health and safety specialists and technicians|79|6|73|83|2|80
+Substance abuse and behavioral disorder counselors|137|9|126|164|23|138
+Educational, guidance, and career counselors and advisors|408|23|384|348|22|325
+Marriage and family therapists|38|0|39|40|2|38
+Mental health counselors|195|1|195|218|5|213
+Rehabilitation counselors|21|1|20|16|0|17
+Counselors, all other|248|21|218|257|21|226
+Child, family, and school social workers|72|1|72|83|11|72
+Healthcare social workers|89|1|88|118|8|107
+Mental health and substance abuse social workers|24|0|23|37|3|33
+Social workers, all other|731|43|688|596|23|570
+Probation officers and correctional treatment specialists|70|1|68|67|5|62
+Social and human service assistants|228|19|206|210|24|180
+Other community and social service specialists|112|10|101|121|4|115
+Clergy|434|10|423|405|14|389
+Directors, religious activities and education|68|1|65|82|4|78
+Religious workers, all other|68|10|56|82|5|76
+Lawyers|1141|1|1139|1146|2|1142
+Judicial law clerks|21|3|18|15|0|15
+Judges, magistrates, and other judicial workers|68|1|66|57|0|57
+Paralegals and legal assistants|445|37|408|486|48|436
+Title examiners, abstractors, and searchers|104|1|103|96|5|90
+Legal support workers, all other|80|10|70|79|11|68
+Postsecondary teachers|1087|18|1064|1058|27|1024
+Preschool and kindergarten teachers|645|79|549|644|78|551
+Elementary and middle school teachers|3336|162|3171|3511|196|3305
+Secondary school teachers|1000|42|958|790|31|759
+Special education teachers|369|20|350|349|21|324
+Tutors|168|56|91|165|53|91
+Other teachers and instructors|805|81|690|1018|90|889
+Archivists, curators, and museum technicians|70|4|65|78|8|69
+Librarians and media collections specialists|168|8|158|195|8|186
+Library technicians|38|7|30|31|1|28
+Teaching assistants|1380|197|1139|1462|266|1151
+Other educational instruction and library workers|155|11|143|151|11|136
+Artists and related workers|324|13|308|302|13|283
+Commercial and industrial designers|10|0|11|21|0|20
+Fashion designers|22|1|20|44|3|42
+Floral designers|58|6|51|49|5|41
+Graphic designers|328|26|301|285|14|266
+Interior designers|125|10|114|125|13|112
+Merchandise displayers and window trimmers|29|1|25|31|2|26
+Other designers|375|20|352|379|21|356
+Actors|56|1|54|43|2|40
+Producers and directors|185|11|174|216|8|207
+Athletes and sports competitors|39|3|32|44|11|31
+Coaches and scouts|297|41|212|362|34|266
+Umpires, referees, and other sports officials|32|2|16|27|2|7
+Dancers and choreographers|22|5|14|18|1|16
+Music directors and composers|45|3|43|58|6|52
+Musicians and singers|165|14|148|167|13|152
+Disc jockeys, except radio|27|0|26|17|2|13
+Entertainers and performers, sports and related workers, all other|42|3|36|63|4|56
+Broadcast announcers and radio disc jockeys|21|1|21|18|1|16
+News analysts, reporters, and journalists|88|6|81|86|6|79
+Public relations specialists|120|18|102|135|16|120
+Editors|104|2|103|113|8|105
+Technical writers|53|4|49|54|0|54
+Writers and authors|277|9|267|234|7|226
+Interpreters and translators|94|4|87|97|2|94
+Court reporters and simultaneous captioners|32|0|32|24|0|25
+Media and communication workers, all other|28|2|26|23|4|19
+Broadcast, sound, and lighting technicians|118|12|101|121|7|114
+Photographers|210|17|190|216|19|190
+Television, video, and film camera operators and editors|111|15|93|129|13|111
+Media and communication equipment workers, all other|1|0|1|2|0|2
+Chiropractors|57|1|56|66|0|67
+Dentists|140|1|137|192|0|192
+Dietitians and nutritionists|141|8|130|136|5|128
+Optometrists|42|0|43|48|0|47
+Pharmacists|375|8|367|365|13|352
+Emergency medicine physicians|21|0|21|25|0|25
+Radiologists|26|0|26|19|0|20
+Other physicians|933|0|933|929|0|930
+Surgeons|48|0|48|73|0|74
+Physician assistants|160|5|154|153|4|149
+Podiatrists|13|0|13|9|0|8
+Audiologists|12|0|12|20|3|17
+Occupational therapists|149|4|143|138|2|135
+Physical therapists|274|6|268|338|11|327
+Radiation therapists|16|0|15|10|0|9
+Recreational therapists|14|1|13|13|4|9
+Respiratory therapists|104|4|100|89|2|88
+Speech-language pathologists|171|6|165|203|8|195
+Exercise physiologists|5|2|2|5|0|5
+Therapists, all other|254|22|231|323|20|302
+Veterinarians|83|0|85|91|0|91
+Registered nurses|3363|179|3179|3528|193|3329
+Nurse anesthetists|37|0|37|25|0|25
+Nurse midwives|6|0|6|11|0|12
+Nurse practitioners|263|0|263|325|0|325
+Acupuncturists|28|0|29|20|0|18
+Healthcare diagnosing or treating practitioners, all other|15|0|14|17|0|17
+Clinical laboratory technologists and technicians|333|38|290|313|31|281
+Dental hygienists|217|10|207|203|20|184
+Cardiovascular technologists and technicians|46|5|40|67|4|63
+Diagnostic medical sonographers|93|10|82|119|7|110
+Radiologic technologists and technicians|223|7|215|274|21|251
+Magnetic resonance imaging technologists|52|4|49|64|1|62
+Nuclear medicine technologists and medical dosimetrists|28|1|27|41|1|40
+Emergency medical technicians|139|41|96|135|42|87
+Paramedics|107|4|103|117|4|112
+Pharmacy technicians|355|67|279|373|77|280
+Psychiatric technicians|91|20|69|142|34|106
+Surgical technologists|93|7|86|107|10|95
+Veterinary technologists and technicians|148|28|115|145|33|103
+Dietetic technicians and ophthalmic medical technicians|68|12|44|68|15|41
+Licensed practical and licensed vocational nurses|588|55|528|545|38|502
+Medical records specialists|193|11|181|166|7|158
+Opticians, dispensing|46|5|40|50|4|46
+Miscellaneous health technologists and technicians|146|14|132|126|10|115
+Other healthcare practitioners and technical occupations|91|8|83|139|9|128
+Home health aides|617|35|575|726|28|690
+Personal care aides|1407|124|1252|1840|177|1624
+Nursing assistants|1236|180|1012|1404|223|1125
+Orderlies and psychiatric aides|59|18|38|60|13|43
+Occupational therapy assistants and aides|25|1|23|35|1|33
+Physical therapist assistants and aides|77|15|61|130|32|97
+Massage therapists|149|7|141|183|3|180
+Dental assistants|327|52|267|287|60|213
+Medical assistants|541|107|427|680|126|539
+Medical transcriptionists|38|17|22|41|15|26
+Pharmacy aides|45|17|28|33|4|29
+Veterinary assistants and laboratory animal caretakers|67|25|40|63|24|36
+Phlebotomists|114|16|96|144|27|116
+Other healthcare support workers|228|21|205|205|15|183
+First-line supervisors of correctional officers|47|2|46|50|4|47
+First-line supervisors of police and detectives|91|0|89|107|0|107
+First-line supervisors of firefighting and prevention workers|63|0|63|55|0|55
+First-line supervisors of security workers|74|0|73|85|3|81
+First-line supervisors of protective service workers, all other|3|0|3|2|0|1
+Firefighters|307|20|286|352|38|314
+Fire inspectors|35|0|35|30|6|24
+Bailiffs|23|1|22|21|1|20
+Correctional officers and jailers|285|24|257|296|22|267
+Detectives and criminal investigators|142|0|142|155|6|148
+Fish and game wardens|8|1|6|11|0|11
+Parking enforcement workers|7|0|6|12|1|11
+Police officers|746|39|705|705|33|669
+Animal control workers|9|0|8|7|1|6
+Private detectives and investigators|105|3|99|154|6|148
+Security guards and gambling surveillance officers|835|83|737|962|125|808
+Crossing guards and flaggers|48|2|46|55|3|51
+Transportation security screeners|37|3|34|52|5|46
+School bus monitors|45|0|43|38|2|34
+Other protective service workers|147|30|31|194|34|43
+Chefs and head cooks|465|35|421|516|43|456
+First-line supervisors of food preparation and serving workers|491|85|372|527|86|394
+Cooks|2012|276|1414|2099|342|1473
+Food preparation workers|932|169|540|930|188|562
+Bartenders|457|84|362|432|75|352
+Fast food and counter workers|784|200|256|959|308|314
+Waiters and waitresses|1762|495|905|1754|541|882
+Food servers, nonrestaurant|200|37|126|233|37|156
+Dining room and cafeteria attendants and bartender helpers|269|43|148|256|46|135
+Dishwashers|235|39|147|245|36|157
+Hosts and hostesses, restaurant, lounge, and coffee shop|293|77|60|326|94|86
+Food preparation and serving related workers, all other|9|1|5|15|2|12
+First-line supervisors of housekeeping and janitorial workers|314|12|299|354|7|344
+First-line supervisors of landscaping, lawn service, and groundskeeping workers|281|18|261|288|7|279
+Janitors and building cleaners|2183|163|1944|2341|180|2064
+Maids and housekeeping cleaners|1364|96|1239|1392|90|1267
+Pest control workers|100|10|90|93|8|85
+Landscaping and groundskeeping workers|1213|144|998|1114|112|935
+Tree trimmers and pruners|104|16|82|101|15|82
+Other grounds maintenance workers|18|0|17|25|3|21
+Supervisors of personal care and service workers|232|16|215|48|3|44
+Animal trainers|66|9|55|55|11|42
+Animal caretakers|305|62|208|364|75|262
+Gambling services workers|74|6|67|97|6|91
+Ushers, lobby attendants, and ticket takers|39|5|22|39|7|27
+Other entertainment attendants and related workers|237|57|111|224|49|107
+Embalmers, crematory operators, and funeral attendants|28|3|22|13|0|13
+Morticians, undertakers, and funeral arrangers|36|0|37|36|7|29
+Barbers|123|9|113|141|10|127
+Hairdressers, hairstylists, and cosmetologists|720|83|627|747|80|650
+Manicurists and pedicurists|295|29|264|277|11|263
+Skincare specialists|96|9|86|113|17|95
+Other personal appearance workers|30|6|23|31|6|22
+Baggage porters, bellhops, and concierges|78|15|58|80|6|73
+Tour and travel guides|58|13|40|56|11|39
+Childcare workers|1007|185|729|1106|231|756
+Exercise trainers and group fitness instructors|234|17|215|281|30|247
+Recreation workers|158|30|98|170|32|102
+Residential advisors|28|8|17|32|7|20
+Personal care and service workers, all other|122|17|94|147|15|120
+First-line supervisors of retail sales workers|3081|233|2809|2977|216|2738
+First-line supervisors of non-retail sales workers|1203|42|1160|1036|35|994
+Cashiers|2712|609|1400|2490|594|1278
+Counter and rental clerks|83|11|63|73|15|51
+Parts salespersons|108|17|85|129|14|104
+Retail salespersons|2582|461|1852|2661|464|1918
+Advertising sales agents|130|8|120|138|5|133
+Insurance sales agents|614|29|583|618|30|587
+Securities, commodities, and financial services sales agents|226|8|217|199|21|178
+Travel agents|71|1|71|81|1|80
+Sales representatives of services, except advertising, insurance, financial services, and travel|615|54|558|695|46|646
+Sales representatives, wholesale and manufacturing|1155|44|1107|1145|55|1083
+Models, demonstrators, and product promoters|23|2|20|39|2|36
+Real estate brokers and sales agents|1182|42|1136|1065|41|1022
+Sales engineers|51|3|47|58|2|56
+Telemarketers|39|6|30|26|7|18
+Door-to-door sales workers, news and street vendors, and related workers|73|2|68|254|39|199
+Sales and related workers, all other|369|50|289|476|69|375
+First-line supervisors of office and administrative support workers|1199|47|1151|1382|39|1340
+Switchboard operators, including answering service|16|2|14|9|1|8
+Telephone operators|26|6|19|26|4|23
+Communications equipment operators, all other|5|0|5|4|0|4
+Bill and account collectors|103|6|97|111|2|108
+Billing and posting clerks|463|27|432|403|22|376
+Bookkeeping, accounting, and auditing clerks|1132|64|1060|1254|67|1176
+Gambling cage workers|23|4|18|22|5|17
+Payroll and timekeeping clerks|126|3|121|166|17|148
+Procurement clerks|30|3|27|43|1|43
+Tellers|218|53|157|224|50|163
+Financial clerks, all other|128|14|113|161|14|146
+Brokerage clerks|8|0|8|2|0|1
+Correspondence clerks|3|0|2|10|2|8
+Court, municipal, and license clerks|84|5|81|64|3|62
+Credit authorizers, checkers, and clerks|45|1|43|30|2|26
+Customer service representatives|2714|381|2098|2600|356|2025
+Eligibility interviewers, government programs|80|0|79|90|3|87
+File Clerks|127|14|107|147|10|134
+Hotel, motel, and resort desk clerks|132|20|100|99|22|75
+Interviewers, except eligibility and loan|171|20|148|172|17|149
+Library assistants, clerical|76|18|55|71|9|59
+Loan interviewers and clerks|169|7|162|84|3|81
+New accounts clerks|14|1|13|10|0|9
+Order clerks|124|15|98|87|16|68
+Human resources assistants, except payroll and timekeeping|89|6|83|124|11|112
+Receptionists and information clerks|1171|211|894|1247|205|967
+Reservation and transportation ticket agents and travel clerks|112|13|98|125|12|114
+Information and record clerks, all other|93|14|76|101|11|87
+Cargo and freight agents|29|3|24|27|1|27
+Couriers and messengers|936|156|751|949|113|810
+Public safety telecommunicators|82|8|73|90|8|82
+Dispatchers, except police, fire, and ambulance|181|18|161|180|19|162
+Meter readers, utilities|16|3|12|17|2|14
+Postal service clerks|107|7|100|96|3|93
+Postal service mail carriers|280|6|272|371|12|359
+Postal service mail sorters, processors, and processing machine operators|59|5|54|52|4|45
+Production, planning, and expediting clerks|212|11|196|212|21|187
+Shipping, receiving, and inventory clerks|645|78|552|604|70|521
+Weighers, measurers, checkers, and samplers, recordkeeping|59|8|48|91|7|80
+Executive secretaries and executive administrative assistants|244|12|232|249|2|247
+Legal secretaries and administrative assistants|46|2|44|38|3|33
+Medical secretaries and administrative assistants|74|7|68|103|7|95
+Secretaries and administrative assistants, except legal, medical, and executive|1915|112|1785|1491|82|1396
+Data entry keyers|237|24|210|229|23|200
+Word processors and typists|35|2|33|62|7|54
+Desktop publishers|1|0|1|1|0|1
+Insurance claims and policy processing clerks|314|18|295|274|16|257
+Mail clerks and mail machine operators, except postal service|53|5|45|63|6|55
+Office clerks, general|1256|127|1079|1436|145|1228
+Office machine operators, except computer|29|3|24|23|0|23
+Proofreaders and copy markers|7|1|7|18|2|15
+Statistical assistants|17|2|14|44|2|42
+Office and administrative support workers, all other|582|42|534|859|71|773
+First-line supervisors of farming, fishing, and forestry workers|52|2|49|50|3|44
+Agricultural inspectors|14|3|10|11|0|12
+Animal breeders|9|0|9|16|0|15
+Graders and sorters, agricultural products|47|2|39|58|5|53
+Miscellaneous agricultural workers|753|74|613|765|68|625
+Fishing and hunting workers|32|6|25|35|1|34
+Forest and conservation workers|15|3|11|19|4|14
+Logging workers|57|8|47|46|3|41
+First-line supervisors of construction trades and extraction workers|661|16|645|788|31|753
+Boilermakers|15|1|13|13|2|11
+Brickmasons, blockmasons, and stonemasons|119|9|109|121|11|110
+Carpenters|1282|114|1140|1178|106|1047
+Carpet, floor, and tile installers and finishers|147|16|129|105|6|96
+Cement masons, concrete finishers, and terrazzo workers|70|7|61|51|9|41
+Construction laborers|2227|271|1873|2382|287|2020
+Construction equipment operators|369|27|338|404|49|349
+Drywall installers, ceiling tile installers, and tapers|161|8|149|122|13|107
+Electricians|918|104|799|1063|146|895
+Glaziers|32|4|27|32|4|26
+Insulation workers|52|6|47|48|1|46
+Painters and paperhangers|644|56|568|485|43|433
+Pipelayers|52|5|44|46|6|39
+Plumbers, pipefitters, and steamfitters|610|67|534|624|70|539
+Plasterers and stucco masons|23|1|21|27|4|22
+Reinforcing iron and rebar workers|9|1|8|10|0|10
+Roofers|208|27|176|259|45|200
+Sheet metal workers|131|18|111|148|17|130
+Structural iron and steel workers|66|5|59|42|7|33
+Solar photovoltaic installers|28|7|20|22|5|17
+Helpers, construction trades|54|16|30|53|13|30
+Construction and building inspectors|113|1|111|120|10|109
+Elevator and escalator installers and repairers|43|3|41|34|3|31
+Fence erectors|48|7|39|42|11|29
+Hazardous materials removal workers|25|3|23|23|1|23
+Highway maintenance workers|108|7|99|61|4|56
+Rail-track laying and maintenance equipment operators|17|0|17|8|0|8
+Septic tank servicers and sewer pipe cleaners|6|1|7|12|0|13
+Miscellaneous construction and related workers|32|3|29|19|3|16
+Derrick, rotary drill, and service unit operators, oil and gas|26|1|25|21|1|20
+Excavating and loading machine and dragline operators, surface mining|3|1|2|4|1|2
+Earth drillers, except oil and gas|27|1|25|25|2|23
+Explosives workers, ordnance handling experts, and blasters|7|0|6|9|0|9
+Underground mining machine operators|33|1|33|36|4|31
+Roustabouts, oil and gas|10|0|8|8|3|6
+Other extraction workers|50|9|37|46|6|39
+First-line supervisors of mechanics, installers, and repairers|245|4|240|285|5|279
+Computer, automated teller, and office machine repairers|177|10|166|132|10|121
+Radio and telecommunications equipment installers and repairers|112|16|95|140|8|129
+Avionics technicians|8|0|8|14|0|14
+Electric motor, power tool, and related repairers|20|1|20|25|5|19
+Electrical and electronics installers and repairers, transportation equipment|0|0|0|5|0|5
+Electrical and electronics repairers, industrial and utility|15|0|14|10|0|9
+Electronic equipment installers and repairers, motor vehicles|10|0|8|13|2|10
+Audiovisual equipment installers and repairers|26|3|21|43|4|39
+Security and fire alarm systems installers|67|14|51|58|11|47
+Aircraft mechanics and service technicians|149|11|135|165|9|156
+Automotive body and related repairers|151|8|141|130|10|116
+Automotive glass installers and repairers|27|2|25|25|1|24
+Automotive service technicians and mechanics|926|115|782|901|110|758
+Bus and truck mechanics and diesel engine specialists|347|41|295|369|47|315
+Heavy vehicle and mobile equipment service technicians and mechanics|224|13|208|168|11|154
+Small engine mechanics|51|4|42|41|6|34
+Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers|81|20|52|106|25|65
+Control and valve installers and repairers|18|1|18|23|2|20
+Heating, air conditioning, and refrigeration mechanics and installers|472|41|420|561|55|494
+Home appliance repairers|46|1|45|52|2|49
+Industrial and refractory machinery mechanics|401|19|379|329|17|311
+Maintenance and repair workers, general|646|36|600|717|62|649
+Maintenance workers, machinery|19|1|18|67|7|60
+Millwrights|40|3|38|45|3|42
+Electrical power-line installers and repairers|119|11|103|144|17|123
+Telecommunications line installers and repairers|134|8|121|110|10|98
+Precision instrument and equipment repairers|53|2|53|55|0|53
+Wind turbine service technicians|9|2|7|9|1|9
+Coin, vending, and amusement machine servicers and repairers|37|3|35|39|2|38
+Commercial divers|3|2|1|1|0|1
+Locksmiths and safe repairers|19|2|17|36|4|32
+Manufactured building and mobile home installers|4|1|2|1|0|1
+Riggers|10|2|8|15|2|12
+Helpers--installation, maintenance, and repair workers|15|2|11|14|4|5
+Other installation, maintenance, and repair workers|173|19|149|211|23|183
+First-line supervisors of production and operating workers|799|25|771|749|21|726
+Aircraft structure, surfaces, rigging, and systems assemblers|6|0|5|3|0|3
+Electrical, electronics, and electromechanical assemblers|102|9|87|113|9|101
+Engine and other machine assemblers|8|2|6|14|1|13
+Structural metal fabricators and fitters|20|4|15|22|5|16
+Other assemblers and fabricators|1047|113|907|873|93|754
+Bakers|230|37|178|277|39|220
+Butchers and other meat, poultry, and fish processing workers|252|26|215|255|23|226
+Food and tobacco roasting, baking, and drying machine operators and tenders|9|0|9|13|1|11
+Food batchmakers|94|14|71|93|7|83
+Food cooking machine operators and tenders|13|6|7|15|0|14
+Food processing workers, all other|142|9|130|119|14|102
+Computer numerically controlled tool operators and programmers|78|6|72|77|5|70
+Forming machine setters, operators, and tenders, metal and plastic|30|3|27|16|1|13
+Cutting, punching, and press machine setters, operators, and tenders, metal and plastic|60|6|52|53|6|45
+Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic|25|1|25|37|4|32
+Other machine tool setters, operators, and tenders, metal and plastic|13|2|11|3|0|3
+Machinists|313|21|290|309|19|287
+Metal furnace operators, tenders, pourers, and casters|18|1|14|20|0|20
+Model makers and patternmakers, metal and plastic|0|0|0|2|0|2
+Molders and molding machine setters, operators, and tenders, metal and plastic|20|0|21|34|6|30
+Tool and die makers|40|1|39|29|0|29
+Welding, soldering, and brazing workers|550|68|457|573|79|476
+Other metal workers and plastic workers|387|39|342|307|17|288
+Prepress technicians and workers|21|0|18|10|0|10
+Printing press operators|151|11|136|142|12|130
+Print binding and finishing workers|7|0|6|5|0|4
+Laundry and dry-cleaning workers|115|6|105|137|11|122
+Pressers, textile, garment, and related materials|21|2|19|20|3|17
+Sewing machine operators|131|3|128|92|5|88
+Shoe and leather workers|11|0|11|12|2|8
+Tailors, dressmakers, and sewers|58|1|57|60|0|61
+Textile machine setters, operators, and tenders|19|0|16|18|2|14
+Upholsterers|18|0|18|20|0|20
+Other textile, apparel, and furnishings workers|19|3|17|14|0|13
+Cabinetmakers and bench carpenters|71|5|64|42|2|41
+Furniture finishers|14|0|14|20|3|15
+Sawing machine setters, operators, and tenders, wood|27|6|19|15|5|9
+Woodworking machine setters, operators, and tenders, except sawing|15|2|13|5|1|4
+Other woodworkers|25|2|23|37|4|32
+Power plant operators, distributors, and dispatchers|23|0|22|45|4|40
+Stationary engineers and boiler operators|85|5|80|108|2|107
+Water and wastewater treatment plant and system operators|93|4|88|118|12|106
+Miscellaneous plant and system operators|38|0|34|42|1|41
+Chemical processing machine setters, operators, and tenders|73|3|69|55|2|53
+Crushing, grinding, polishing, mixing, and blending workers|76|3|70|71|2|67
+Cutting workers|57|3|55|40|6|32
+Extruding, forming, pressing, and compacting machine setters, operators, and tenders|12|0|11|17|2|16
+Furnace, kiln, oven, drier, and kettle operators and tenders|10|2|7|15|3|10
+Inspectors, testers, sorters, samplers, and weighers|781|64|697|737|79|640
+Jewelers and precious stone and metal workers|65|2|63|42|0|41
+Dental and ophthalmic laboratory technicians and medical appliance technicians|95|7|87|75|4|69
+Packaging and filling machine operators and tenders|304|29|267|242|27|204
+Painting workers|173|17|154|173|30|141
+Photographic process workers and processing machine operators|14|1|13|24|5|17
+Adhesive bonding machine operators and tenders|4|0|4|7|1|5
+Etchers and engravers|2|0|3|6|0|6
+Molders, shapers, and casters, except metal and plastic|24|4|17|32|4|26
+Paper goods machine setters, operators, and tenders|20|3|16|14|1|13
+Tire builders|9|2|7|14|1|13
+Helpers--production workers|65|10|43|68|11|50
+Other production equipment operators and tenders|6|1|2|4|0|3
+Other production workers|1246|135|1068|1286|143|1116
+Supervisors of transportation and material moving workers|312|23|287|302|12|290
+Aircraft pilots and flight engineers|187|9|178|201|6|195
+Air traffic controllers and airfield operations specialists|35|1|34|40|2|37
+Flight attendants|116|4|112|129|14|115
+Ambulance drivers and attendants, except emergency medical technicians|15|8|7|17|1|16
+Bus drivers, school|250|0|249|210|1|209
+Bus drivers, transit and intercity|245|2|243|268|4|264
+Driver/sales workers and truck drivers|3539|248|3251|3583|203|3336
+Shuttle drivers and chauffeurs|59|1|58|82|6|75
+Taxi drivers|455|13|440|575|18|555
+Motor vehicle operators, all other|193|18|172|144|12|131
+Locomotive engineers and operators|52|0|52|33|1|32
+Railroad conductors and yardmasters|38|1|37|56|7|50
+Other rail transportation workers|18|2|14|26|1|25
+Sailors and marine oilers|25|2|22|19|1|15
+Ship and boat captains and operators|41|5|35|46|1|45
+Ship engineers|6|0|6|3|1|2
+Parking attendants|68|16|49|76|16|52
+Transportation service attendants|91|26|60|92|21|58
+Transportation inspectors|44|0|44|44|3|41
+Passenger attendants|21|2|20|37|3|33
+Other transportation workers|47|2|44|47|7|39
+Crane and tower operators|60|5|54|59|6|53
+Conveyor, dredge, and hoist and winch operators|29|1|27|34|1|31
+Industrial truck and tractor operators|636|63|561|640|60|574
+Cleaners of vehicles and equipment|350|71|230|396|89|245
+Laborers and freight, stock, and material movers, hand|2244|427|1645|2203|337|1696
+Machine feeders and offbearers|24|2|21|26|4|19
+Packers and packagers, hand|719|147|509|582|92|419
+Stockers and order fillers|1722|380|1118|1696|354|1167
+Pumping station operators|19|1|18|14|0|13
+Refuse and recyclable material collectors|112|9|96|127|14|106
+Other material moving workers|55|9|45|77|10|66

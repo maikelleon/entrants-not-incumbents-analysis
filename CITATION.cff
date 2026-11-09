@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Entrants, Not Incumbents? Code and data for the usage-versus-exposure test"
+authors:
+  - family-names: Leon
+    given-names: Maikel
+    affiliation: "Miami Herbert Business School, University of Miami"
+    email: mleon@miami.edu
+version: 1.0.0
+date-released: 2026-11-09
+license: MIT
+repository-code: "https://github.com/maikelleon/entrants-not-incumbents-analysis"
+keywords:
+  - generative AI
+  - labor markets
+  - young workers
+  - AI exposure
+  - occupations
+  - Current Population Survey
